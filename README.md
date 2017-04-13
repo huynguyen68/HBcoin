@@ -1,0 +1,2 @@
+# HBcoin
+bitH
